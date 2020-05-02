@@ -1,3 +1,5 @@
 # Xylophone 🎹
+This is a simple xylophone flutter app.  
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+[<img src="i.jpg" width="300">](https://www.youtube.com/watch?v=Astg_mvuQ4c-Y "Xylophone")  
